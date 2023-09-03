@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed23a&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed23a" /> </p>
 
-- 🔭 I’m currently working as **A software developer**
+- 🔭 I’m currently working as **A Software Engineer at Huawei**
 
 - 📫 How to reach me **ahmed8.ashraf23@gmail.com**
 
